@@ -8,4 +8,4 @@
 
 ![NickName-AM's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickName-AM&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickName-AM)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickName-AM&layout=compact&theme=dark)
