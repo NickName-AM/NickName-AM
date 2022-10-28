@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Web Hacking and doing some ctfs on TryHackMe and PicoCTF
 - 🤔 I’m looking for help with Web Technologies
-- :computer: My Blog: https://medium.com/@vinick 
+- :computer: My Blog: https://vinick.medium.com/
 - 📫 How to reach me: maharjanebik061@gmail.com
 - ⚡ Fun fact: Fun things are fun.
 
