@@ -7,6 +7,6 @@
 - 📫 How to reach me: maharjanebik061@gmail.com
 - ⚡ Fun fact: Fun things are fun.
 
-![NickName-AM's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickName-AM&show_icons=true&theme=tokyonight)(https://github-readme-stats.vercel.app/api?username=NickName-AM&show_icons=true&theme=tokyonight)
+![NickName-AM's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickName-AM&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickName-AM&langs_count=6&theme=tokyonight)(https://github-readme-stats.vercel.app/api?username=NickName-AM&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickName-AM&langs_count=6&theme=tokyonight)
