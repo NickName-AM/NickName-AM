@@ -9,4 +9,4 @@
 
 ![NickName-AM's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickName-AM&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickName-AM&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickName-AM&langs_count=6&theme=dark)
