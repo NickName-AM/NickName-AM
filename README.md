@@ -2,15 +2,45 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Abik;I+like+hacking;I+love+Web+Development.&center=true&width=500&height=50"></a>
 </p>
 
-### Hi there 👋, I'm Vin
 
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Go-00AED8.svg?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+</div>
+</p>
 
-- 🌱 I’m currently learning Web Hacking and doing some ctfs on TryHackMe and PicoCTF
-- 🤔 I’m looking for help with Web Technologies
-- :computer: My Blog: https://vinick.medium.com/
-- 📫 How to reach me: maharjanebik061@gmail.com
-- ⚡ Fun fact: Fun things are fun.
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+</p>
 
-![NickName-AM's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickName-AM&show_icons=true&theme=tokyonight)
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+</div>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickName-AM&langs_count=6&theme=tokyonight)
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+<br/>
+<p align="left">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NickName-AM&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NickName-AM&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
+
+<p align="center">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickName-AM&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
