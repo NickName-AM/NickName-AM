@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Ebik.;I+like+hacking.;I+love+Web+Development.&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Ebik.;I'm+a+full-stack-developer.&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -46,9 +46,9 @@
 
 <br/>
 <p align="left">
-  <a href="https://nickname-am.github.io/portfolio/">
+  <a href="http://abikmaharjan.com.np/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NickName-AM&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NickName-AM&theme=radical&hide_border=true">		  
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NickName-AM&repo=PyFiles)](https://github.com/NickName-AM/PyFiles)		  
   </a>
 </p>
 <br>
