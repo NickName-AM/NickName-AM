@@ -47,8 +47,8 @@
 <br/>
 <p align="left">
   <a href="http://abikmaharjan.com.np/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NickName-AM&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NickName-AM&repo=PyFiles)](https://github.com/NickName-AM/PyFiles)		  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NickName-AM&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=NickName-AM&repo=PyFiles" />		  
   </a>
 </p>
 <br>
