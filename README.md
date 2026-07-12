@@ -25,14 +25,14 @@ I work with **Flutter** and **Django**, shipping cross-platform apps and backend
 ### [claude-ssh-daemon](https://github.com/NickName-AM/claude-ssh-daemon)
 A lightweight Go daemon that acts as a secure local intermediary for SSH connections. The daemon exposes an MCP (Model Context Protocol) server over a Unix socket, allowing Claude Code to run remote commands, read/write files, and access other SSH capabilities through a persistent SSH ControlMaster session that the user establishes and maintains.
 
+### [fclean](https://github.com/NickName-AM/fclean)
+A CLI tool that scaffolds Flutter Clean Architecture feature directories and Dart boilerplate so you don't have to create them by hand.
+
 ### [kinbech](https://github.com/NickName-AM/kinbech)
 Marketplace platform for buying and selling products. Built with Django, full user auth, product listings, and transactional flows.
 
 ### [bloggy](https://github.com/NickName-AM/bloggy)
 Django blogging platform with user authentication, CSS-styled frontend, and SQLite backend. Topics: `django` `html5` `css3` `python3` `user-authentication`
-
-### [KBC](https://github.com/NickName-AM/KBC)
-Quiz game built in C++.
 
 ### [PyFiles](https://github.com/NickName-AM/PyFiles)
 Demonstrations of file operations in Python — creating, renaming, and copying data across text and binary files.
