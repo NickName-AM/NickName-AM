@@ -1,8 +1,8 @@
 # Abik Maharjan
 
-**Full-Stack Developer** building at the intersection of mobile, web, and healthcare integrations.
+**Full-Stack Developer** building at the intersection of mobile, web, and distributed backend systems.
 
-I work with **Flutter** and **Django**, shipping cross-platform apps and backend systems. Currently focused on healthcare interoperability (HL7/LIS integrations) and launching Flutter apps to production.
+I work with **Flutter**, **Django**, and **Cloudflare Workers**, shipping cross-platform apps and edge-native backend services. Currently building event-driven social publishing pipelines on the Meta (Facebook/Instagram) Graph API.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abikmaharjan.com.np-000?style=flat-square&logo=safari&logoColor=white)](https://abikmaharjan.com.np/)
 [![GitHub](https://img.shields.io/badge/NickName--AM-000?style=flat-square&logo=github&logoColor=white)](https://github.com/NickName-AM)
@@ -11,12 +11,14 @@ I work with **Flutter** and **Django**, shipping cross-platform apps and backend
 
 ## What I Work With
 
-**Languages:** Python, Dart, JavaScript, C++, HTML/CSS  
-**Backend:** Django, Django REST Framework  
+**Languages:** JavaScript, Python, Dart, Go, C++, SQL, HTML/CSS  
+**Backend:** Django, Django REST Framework, Cloudflare Workers (Node.js)  
+**Edge & Distributed:** Durable Objects, Cloudflare Queues, Service Bindings, Hyperdrive, Secrets Store  
+**Data & Auth:** PostgreSQL (Supabase), JWT/JWKS verification (`jose`), OAuth 2.0 (Meta Graph API)  
 **Mobile:** Flutter (Android/iOS)  
-**Healthcare:** HL7v2 (ORU, DFT), LIS integrations (WindoPath → NueMD)  
 **Frontend:** React, vanilla JS  
-**Infra & Tools:** Git, Linux (Arch, Debian), VS Code, Claude Code
+**Testing & CI:** Vitest (`@cloudflare/vitest-pool-workers`), GitHub Actions, Postman  
+**Infra & Tools:** Git, Wrangler, Linux, VS Code, Claude Code  
 
 ---
 
@@ -41,8 +43,7 @@ Demonstrations of file operations in Python — creating, renaming, and copying 
 
 ## Current Focus
 
-- **Healthcare integrations** — Building HL7 servers to bridge pathology LIS systems with practice management software, starting with ORU message routing and designed to extend to DFT without refactoring.
-- **Agentic development workflows** — Leveraging Claude Code with GSD methodology, parallel sessions via git worktrees.
+- **Edge-native microservices** — Building event-driven pipelines on Cloudflare Workers: Durable Objects for scheduling, Queues for fan-out, service bindings for internal-only surfaces, and Hyperdrive for Postgres access.
 
 ---
 
@@ -55,4 +56,4 @@ Demonstrations of file operations in Python — creating, renaming, and copying 
 
 ---
 
-<sub>Based in Nepal · Open to collaborations on Django, Flutter, and healthcare tech.</sub>
+<sub>Based in Nepal · Open to collaborations on Django, Flutter, and edge/serverless backends.</sub>
