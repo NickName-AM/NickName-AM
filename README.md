@@ -1,8 +1,8 @@
 # Abik Maharjan
 
-**Full-Stack Developer** building at the intersection of mobile, web, and distributed backend systems.
+**Backend Developer** building serverless services on **Cloudflare Workers**.
 
-I work with **Flutter**, **Django**, and **Cloudflare Workers**, shipping cross-platform apps and edge-native backend services. Currently building event-driven social publishing pipelines on the Meta (Facebook/Instagram) Graph API.
+I build and maintain production backend services for social media management and team collaboration, integrating with the Facebook, Instagram, and TikTok APIs.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abikmaharjan.com.np-000?style=flat-square&logo=safari&logoColor=white)](https://abikmaharjan.com.np/)
 [![GitHub](https://img.shields.io/badge/NickName--AM-000?style=flat-square&logo=github&logoColor=white)](https://github.com/NickName-AM)
@@ -11,41 +11,16 @@ I work with **Flutter**, **Django**, and **Cloudflare Workers**, shipping cross-
 
 ## What I Work With
 
-**Languages:** JavaScript, Python, Dart, Go, C++, SQL, HTML/CSS  
-**Backend:** Django, Django REST Framework, Cloudflare Workers (Node.js)  
-**Edge & Distributed:** Durable Objects, Cloudflare Queues, Service Bindings, Hyperdrive, Secrets Store  
-**Data & Auth:** PostgreSQL (Supabase), JWT/JWKS verification (`jose`), OAuth 2.0 (Meta Graph API)  
-**Mobile:** Flutter (Android/iOS)  
-**Frontend:** React, vanilla JS  
+**Languages:** JavaScript, Python, Go, SQL, HTML/CSS  
+**Backend:** Cloudflare Workers, Django, Django REST Framework  
+**Cloudflare:** Durable Objects, Queues, KV, R2, Hyperdrive, Service Bindings, Secrets Store, Cron Triggers  
+**Data & Auth:** PostgreSQL (Supabase), JWT/JWKS verification (`jose`), OAuth 2.0  
+**Platform APIs:** Meta Graph API (Facebook, Instagram), TikTok API
 **Testing & CI:** Vitest (`@cloudflare/vitest-pool-workers`), GitHub Actions, Postman  
 **Infra & Tools:** Git, Wrangler, Linux, VS Code, Claude Code  
 
 ---
 
-## Featured Projects
-
-### [claude-ssh-daemon](https://github.com/NickName-AM/claude-ssh-daemon)
-A lightweight Go daemon that acts as a secure local intermediary for SSH connections. The daemon exposes an MCP (Model Context Protocol) server over a Unix socket, allowing Claude Code to run remote commands, read/write files, and access other SSH capabilities through a persistent SSH ControlMaster session that the user establishes and maintains.
-
-### [fclean](https://github.com/NickName-AM/fclean)
-A CLI tool that scaffolds Flutter Clean Architecture feature directories and Dart boilerplate so you don't have to create them by hand.
-
-### [kinbech](https://github.com/NickName-AM/kinbech)
-Marketplace platform for buying and selling products. Built with Django, full user auth, product listings, and transactional flows.
-
-### [bloggy](https://github.com/NickName-AM/bloggy)
-Django blogging platform with user authentication, CSS-styled frontend, and SQLite backend. Topics: `django` `html5` `css3` `python3` `user-authentication`
-
-### [PyFiles](https://github.com/NickName-AM/PyFiles)
-Demonstrations of file operations in Python — creating, renaming, and copying data across text and binary files.
-
----
-
-## Current Focus
-
-- **Edge-native microservices** — Building event-driven pipelines on Cloudflare Workers: Durable Objects for scheduling, Queues for fan-out, service bindings for internal-only surfaces, and Hyperdrive for Postgres access.
-
----
 
 ## GitHub Stats
 
@@ -56,4 +31,4 @@ Demonstrations of file operations in Python — creating, renaming, and copying 
 
 ---
 
-<sub>Based in Nepal · Open to collaborations on Django, Flutter, and edge/serverless backends.</sub>
+<sub>Based in Nepal · Open to collaborations on backend, serverless, and Cloudflare Workers projects.</sub>
